@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsfrosted
-- 🖊️ I make discord bots and spigot plugins
-- ✍️ Java, Javascript & Python
+- ✍️ Java & Javascript 
 - ⏲️ Started in 2019
 - 📫 Twitter https://www.twitter.com/frostedhd
 
