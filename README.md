@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @itsfrosted
-- ✍️ Java & Javascript 
-- ⏲️ Started in 2019
-- 📫 Twitter https://www.twitter.com/frostedhd
+Hello
 
 <!---
 itsfrosted/itsfrosted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
